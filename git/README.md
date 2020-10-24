@@ -16,4 +16,6 @@
 - [Rocky](https://github.com/Rocky20207015neusoftware)
 - [YaoMang](https://github.com/YaoMang)
 - [Herbert118](https://github.com/Herbert118)
+- [ZPLTiZ](https://github.com/ZpltizKelvin)
+- [tsukiyashino-utage](https://github.com/tsukiyashino-utage)
 - [SuXiaoxing](https://github.com/1095393941)
