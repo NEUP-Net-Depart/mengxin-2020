@@ -17,4 +17,8 @@
 - [YaoMang](https://github.com/YaoMang)
 - [Herbert118](https://github.com/Herbert118)
 - [ZPLTiZ](https://github.com/ZpltizKelvin)
+- [tsukiyashino-utage](https://github.com/tsukiyashino-utage)
+- [SuXiaoxing](https://github.com/1095393941)
+- [Fennel1](https://github.com/Fennel1)
+- [lucas17798](https://github.com/lucas17798)
 - [9furyx](https://github.com/9furyx)
