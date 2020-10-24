@@ -23,3 +23,4 @@
 - [lucas17798](https://github.com/lucas17798)
 - [9furyx](https://github.com/9furyx)
 - [Hzone1110](https://github.com/Hzone1110）
+- [1azybug](https://github.com/1azybug)
