@@ -12,16 +12,11 @@
 - [Dave233-s](https://github.com/Dave233-s)
 - [435qb](https://github.com/435qb)
 
-
-
-
-
-
-
-
-
-
-
-
-
+- [ChuanSe](https://github.com/ChuanSe)
+- [onglu1](https://github.com/onglu1)
+- [Rocky](https://github.com/Rocky20207015neusoftware)
+- [YaoMang](https://github.com/YaoMang)
+- [Herbert118](https://github.com/Herbert118)
+- [ZPLTiZ](https://github.com/ZpltizKelvin)
 - [tsukiyashino-utage](https://github.com/tsukiyashino-utage)
+
