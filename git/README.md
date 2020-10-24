@@ -1,4 +1,4 @@
-﻿# Git
+# Git
 
 ## 任务要求
 
@@ -27,4 +27,6 @@
 - [lk-learner-good](https://github.com/lk-learner-good)
 - [hittingpacker](https://github.com/hittingpacker)
 - [AXIS5hacker](https://github.com/AXIS5hacker)
+- [ZMH6666](https://github.com/ZMH6666)
+- [stranger15807](https://github.com/Stranger15807)
 - [Qurope](https://github.com/Qurope)
