@@ -15,4 +15,5 @@
 - [onglu1](https://github.com/onglu1)
 - [Rocky](https://github.com/Rocky20207015neusoftware)
 - [YaoMang](https://github.com/YaoMang)
--[moxunqi](https://github.com/moxunqi)
+
+- [moxunqi](https://github.com/moxunqi)
