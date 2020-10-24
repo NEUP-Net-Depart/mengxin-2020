@@ -19,3 +19,4 @@
 - [ZPLTiZ](https://github.com/ZpltizKelvin)
 - [tsukiyashino-utage](https://github.com/tsukiyashino-utage)
 - [SuXiaoxing](https://github.com/1095393941)
+- [Fennel1](https://github.com/Fennel1)
