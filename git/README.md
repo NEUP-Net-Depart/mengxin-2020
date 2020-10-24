@@ -14,5 +14,7 @@
 - [ChuanSe](https://github.com/ChuanSe)
 - [onglu1](https://github.com/onglu1)
 - [Rocky](https://github.com/Rocky20207015neusoftware)
+- [YaoMang](https://github.com/YaoMang)
+- [Herbert118](https://github.com/Herbert118)
+- [ZPLTiZ](https://github.com/ZpltizKelvin)
 - [9furyx](https://github.com/9furyx)
-
