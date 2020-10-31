@@ -1,15 +1,10 @@
-# NEUP-Net-Department 2020 培养计划
+# Git
 
+## 任务要求
 
+请创建 Pull Request，将你的 Github id 与主页链接添加到本文件末尾。
 
-本仓库的每个目录都包含一个任务，请完成这些任务。
+## 提交列表
 
-
-
-顺序如下:
-
-
-
-- git
-
-- [TBD...]
+- [unbyte](https://github.com/unbyte)
+- [leo220yuyaodog](https://github.com/leo220yuyaodog)
